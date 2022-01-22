@@ -1,0 +1,24 @@
+{
+  "name": "courseera-assignment",
+  "version": "1.0.0",
+  "description": "\"Courseera Assignment Directory\"",
+  "main": "aboutus.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poudels5443/Courseera-Bootstrap-Assignment.git"
+  },
+  "author": "Safal Poudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poudels5443/Courseera-Bootstrap-Assignment/issues"
+  },
+  "homepage": "https://github.com/poudels5443/Courseera-Bootstrap-Assignment#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
